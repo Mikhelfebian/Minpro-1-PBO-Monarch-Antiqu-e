@@ -29,3 +29,6 @@ Monarch Antiqu'e adalah sebuah sistem atau aplikasi yang berfungsi untuk memperm
 | string | kategori | Untuk menyimpan jenis kategori dari barang dan mempermudah pengelompokan |
 | double | harga | untuk menyimpan harga dari barang |
 | int | stok | untuk menenetukan jumlah yang tersedia dari stok barang |
+
+## Alur Program
+- FLowchart
