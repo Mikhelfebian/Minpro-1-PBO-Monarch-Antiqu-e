@@ -24,4 +24,8 @@ Monarch Antiqu'e adalah sebuah sistem atau aplikasi yang berfungsi untuk memperm
 ## Atribut
 | Tipe Data | Nama Atribut |  Fungsi  |
 |---|---|---|
-| int | id | Untuk menyimpan kode unik dari barang sehingga mengurangi duplikasi |
+| int | id | Untuk menyimpan kode unik dari barang untuk menghindari resiko duplikasi |
+| string | namaBarang | Untuk menyimpan nama barang |
+| string | kategori | Untuk menyimpan jenis kategori dari barang dan mempermudah pengelompokan |
+| double | harga | untuk menyimpan harga dari barang |
+| int | stok | untuk menenetukan jumlah yang tersedia dari stok barang |
