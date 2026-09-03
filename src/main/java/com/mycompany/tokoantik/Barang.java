@@ -15,7 +15,6 @@ public class Barang {
     private double harga;
     private int stok;
  
-    // Constructor
     public Barang(int id, String namaBarang, String kategori, double harga, int stok) {
         this.id = id;
         setNamaBarang(namaBarang);
