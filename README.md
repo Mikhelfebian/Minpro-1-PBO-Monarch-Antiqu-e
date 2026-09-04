@@ -60,3 +60,11 @@ Monarch Antiqu'e adalah sebuah sistem atau aplikasi yang berfungsi untuk memperm
 
 ### 6. Keluar (`Menu 6`)
 - Menghentikan perulangan program dan menampilkan pesan penutup/terima kasih.
+
+## Demo Program
+### 1. Tambah Barang (`Menu 1`)
+- Pengguna memasukkan detail barang baru meliputi **Nama**, **Kategori**, **Harga**, dan **Stok**.
+- Sistem akan secara otomatis menggenerasi **ID unik** untuk barang tersebut.
+- Data tersimpan dan sistem menampilkan konfirmasi keberhasilan beserta ID baru.
+<img width="478" height="263" alt="image" src="https://github.com/user-attachments/assets/5741728b-6354-4a01-a3c3-959e67d703bc" />
+
