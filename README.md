@@ -31,6 +31,7 @@ Monarch Antiqu'e adalah sebuah sistem atau aplikasi yang berfungsi untuk memperm
 | int | stok | untuk menenetukan jumlah yang tersedia dari stok barang |
 
 ## Alur Program
-- FLowchart
+- ### FLowchart
+  
   <img width="1867" height="1373" alt="ini flowchart pebeo drawio" src="https://github.com/user-attachments/assets/46c60d6c-b779-4a0c-ae09-de1256c70584" />
 
