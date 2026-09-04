@@ -76,3 +76,28 @@ Gambar diatas menampilkan proses penambahan data barang baru pada sistem Toko Ba
 <img width="745" height="467" alt="image" src="https://github.com/user-attachments/assets/b5184c7c-4f1f-49c2-9439-714e85c66658" />
 
 Gambar diatas menampilkan proses menampilkan seluruh daftar barang pada sistem Toko Barang Antik Monarch Antiqu'e. Pengguna memilih Menu 2 (Tampilkan Semua Barang), lalu sistem secara otomatis menampilkan tabel berisi seluruh data barang yang tersimpan beserta informasi ID, nama barang, kategori, harga, dan jumlah stoknya.
+
+### 4. Cari Barang berdasarkan ID (`Menu 3`)
+<img width="743" height="365" alt="image" src="https://github.com/user-attachments/assets/a27b7851-1312-44f9-9192-8be4351e6925" />
+
+Gambar diatas menampilkan proses pencarian data barang berdasarkan ID pada sistem Toko Barang Antik Monarch Antiqu'e. Pengguna memilih Menu 3 (Cari Barang berdasarkan ID), lalu menginput ID barang yang ingin dicari (yaitu ID 4). Setelah ID dimasukkan, sistem secara otomatis mencari dan menampilkan detail spesifik dari barang tersebut.
+
+### 5. Update Barang (`Menu 4`)
+<img width="841" height="380" alt="image" src="https://github.com/user-attachments/assets/09afe693-c811-42be-953f-d618f5ece8bf" />
+
+Gambar diatas menampilkan proses pembaruan (update) data barang pada sistem Toko Barang Antik Monarch Antiqu'e. Pengguna memilih Menu 4 (Update Barang), lalu menginput ID barang yang ingin diperbarui (yaitu ID 1). Setelah menampilkan data saat ini, sistem meminta input data baru berupa nama, kategori, harga, dan stok. Terdapat pula validasi input agar tidak boleh kosong, dan setelah seluruh data baru diisi, sistem secara otomatis memperbarui informasi barang tersebut.
+
+### 6. Hapus Barang (`Menu 5`)
+<img width="728" height="506" alt="image" src="https://github.com/user-attachments/assets/7e13e67c-7302-40ac-a1a7-30890e920621" />
+
+Gambar diatas menampilkan proses penghapusan data barang pada sistem Toko Barang Antik Monarch Antiqu'e. Pengguna memilih Menu 5 (Hapus Barang), lalu menginput ID barang yang ingin dihapus (yaitu ID 1). Sebelum data dihapus, sistem meminta konfirmasi ulang (y/n). Setelah pengguna mengonfirmasi dengan mengetik y, sistem secara otomatis menghapus barang tersebut secara permanen.
+
+### 7. Keluar (`Menu 6`)
+<img width="486" height="281" alt="image" src="https://github.com/user-attachments/assets/5c303b4d-3d6b-4d9b-bef9-0471efea55d4" />
+
+Gambar diatas menampilkan proses keluar dari aplikasi pada sistem Toko Barang Antik Monarch Antiqu'e. Pengguna memilih Menu 6 (Keluar), lalu sistem secara otomatis menghentikan perulangan program dan menampilkan pesan penutup/terima kasih.
+
+## Nilai tambah
+### 1. Menerapkan access
+### 2. encapsulation
+### 3. validasi input
