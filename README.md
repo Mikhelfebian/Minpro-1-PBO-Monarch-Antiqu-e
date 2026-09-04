@@ -99,5 +99,15 @@ Gambar diatas menampilkan proses keluar dari aplikasi pada sistem Toko Barang An
 
 ## Nilai tambah 🤤
 ### 1. Access Modifier
+<img width="436" height="191" alt="image" src="https://github.com/user-attachments/assets/2f5d4020-731b-4218-a4c6-8d7ae65de093" />
+Gambar diatas menampilkan penerapan konsep Encapsulation dan penggunaan Access Modifier pada kelas Barang di sistem Toko Barang Antik Monarch Antiqu'e. Saya menggunakan access modifier private pada atribut id, namaBarang, kategori, harga, dan stok. Hal ini bertujuan untuk menyembunyikan data (data hiding) agar informasi barang tersebut tidak bisa diakses atau diubah secara langsung dari luar kelas tanpa melalui prosedur yang aman.
+
 ### 2. Encapsulation
+<img width="992" height="187" alt="image" src="https://github.com/user-attachments/assets/133dfe25-c3ac-4558-b81e-db02f736cffa" />
+
+Gambar diatas menampilkan penerapan Validasi Input dan Encapsulation pada metode setter setNamaBarang di sistem Toko Barang Antik Monarch Antiqu'e. Saya menggunakan pengecekan kondisi untuk memastikan bahwa nilai nama barang yang dimasukkan tidak bernilai kosong (null) atau hanya berisi spasi (isEmpty()). Jika input tidak valid, sistem secara otomatis melempar pengecualian (IllegalArgumentException), dan jika valid, nilai baru akan disimpan ke dalam atribut namaBarang.
+
 ### 3. validasi input
+<img width="687" height="267" alt="image" src="https://github.com/user-attachments/assets/141469b5-d053-4507-86b7-11cd14254b8c" />
+
+Gambar diatas menampilkan penerapan Validasi Input pada metode inputString di sistem Toko Barang Antik Monarch Antiqu'e. Saya menggunakan perulangan while (true) untuk memastikan masukan teks dari pengguna tidak kosong (isEmpty()). Jika pengguna memasukkan teks kosong atau hanya berisi spasi, sistem menampilkan pesan peringatan dan meminta input ulang hingga diperoleh masukan teks yang valid untuk dikembalikan oleh fungsi.
