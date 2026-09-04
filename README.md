@@ -97,7 +97,7 @@ Gambar diatas menampilkan proses penghapusan data barang pada sistem Toko Barang
 
 Gambar diatas menampilkan proses keluar dari aplikasi pada sistem Toko Barang Antik Monarch Antiqu'e. Pengguna memilih Menu 6 (Keluar), lalu sistem secara otomatis menghentikan perulangan program dan menampilkan pesan penutup/terima kasih.
 
-## Nilai tambah
+## Nilai tambah 🤤
 ### 1. Access Modifier
 ### 2. Encapsulation
 ### 3. validasi input
