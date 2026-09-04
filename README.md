@@ -67,3 +67,12 @@ Monarch Antiqu'e adalah sebuah sistem atau aplikasi yang berfungsi untuk memperm
 
 Tampilan tersebut merupakan halaman menu utama dari aplikasi Toko Barang Antik. Pada tampilan ini, sistem menyajikan 6 pilihan fitur yang dapat digunakan. Angka 1 yang di ketik di baris paling bawah menandakan bahwa kita baru saja memilih Menu 1 (Tambah Barang) untuk memasukkan data barang baru ke dalam sistem.
 
+### 2. Tambah Barang (`Menu 1`)
+<img width="491" height="413" alt="image" src="https://github.com/user-attachments/assets/29dd25ae-024a-4783-9d17-bfae8a904df8" />
+
+Gambar diatas menampilkan proses penambahan data barang baru pada sistem Toko Barang Antik Monarch Antiqu'e. Pengguna memilih Menu 1 (Tambah Barang), lalu menginput detail barang berupa nama, kategori, harga, dan jumlah stok. Setelah data diisi, sistem secara otomatis menyimpan barang tersebut dan memberikan ID 4 sebagai identitas uniknya.
+
+### 3. Tampilkan Semua Barang (`Menu 2`)
+<img width="745" height="467" alt="image" src="https://github.com/user-attachments/assets/b5184c7c-4f1f-49c2-9439-714e85c66658" />
+
+Gambar diatas menampilkan proses menampilkan seluruh daftar barang pada sistem Toko Barang Antik Monarch Antiqu'e. Pengguna memilih Menu 2 (Tampilkan Semua Barang), lalu sistem secara otomatis menampilkan tabel berisi seluruh data barang yang tersimpan beserta informasi ID, nama barang, kategori, harga, dan jumlah stoknya.
