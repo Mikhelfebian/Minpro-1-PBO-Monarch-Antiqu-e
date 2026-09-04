@@ -31,7 +31,32 @@ Monarch Antiqu'e adalah sebuah sistem atau aplikasi yang berfungsi untuk memperm
 | int | stok | untuk menenetukan jumlah yang tersedia dari stok barang |
 
 ## Alur Program
-- ### FLowchart
+- ## FLowchart
   
   <img width="1867" height="1373" alt="ini flowchart pebeo drawio" src="https://github.com/user-attachments/assets/46c60d6c-b779-4a0c-ae09-de1256c70584" />
 
+- ## Penjelasan
+### 1. Tambah Barang (`Menu 1`)
+- Pengguna memasukkan detail barang baru meliputi **Nama**, **Kategori**, **Harga**, dan **Stok**.
+- Sistem akan secara otomatis menggenerasi **ID unik** untuk barang tersebut.
+- Data tersimpan dan sistem menampilkan konfirmasi keberhasilan beserta ID baru.
+
+### 2. Tampilkan Semua Barang (`Menu 2`)
+- Menampilkan seluruh daftar barang antik yang ada dalam sistem ke dalam bentuk tabel rapi.
+- Informasi yang ditampilkan mencakup: `ID`, `Nama Barang`, `Kategori`, `Harga (Rp)`, dan `Stok`.
+
+### 3. Cari Barang berdasarkan ID (`Menu 3`)
+- Pengguna diminta memasukkan `ID` barang yang ingin dicari.
+- Jika data ditemukan, sistem akan menampilkan detail spesifik dari barang tersebut.
+
+### 4. Update Barang (`Menu 4`)
+- Pengguna dapat memperbarui data barang yang sudah tersimpan dengan memasukkan `ID` barang terlebih dahulu.
+- Pengguna kemudian memasukkan data terbaru (nama, kategori, harga, atau stok).
+
+### 5. Hapus Barang (`Menu 5`)
+- Menampilkan seluruh daftar barang terlebih dahulu agar pengguna bisa melihat ID yang ingin dihapus.
+- Setelah pengguna memasukkan ID, sistem akan meminta konfirmasi ulang (`y/n`).
+- Jika pengguna mengonfirmasi (`y`), data barang akan dihapus permanen dari sistem.
+
+### 6. Keluar (`Menu 6`)
+- Menghentikan perulangan program dan menampilkan pesan penutup/terima kasih.
