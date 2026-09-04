@@ -99,8 +99,9 @@ Gambar diatas menampilkan proses keluar dari aplikasi pada sistem Toko Barang An
 
 ## Nilai tambah 🤤
 ### 1. Access Modifier
-
 <img width="436" height="191" alt="image" src="https://github.com/user-attachments/assets/2f5d4020-731b-4218-a4c6-8d7ae65de093" />
+
+
 Gambar diatas menampilkan penerapan konsep Encapsulation dan penggunaan Access Modifier pada kelas Barang di sistem Toko Barang Antik Monarch Antiqu'e. Saya menggunakan access modifier private pada atribut id, namaBarang, kategori, harga, dan stok. Hal ini bertujuan untuk menyembunyikan data (data hiding) agar informasi barang tersebut tidak bisa diakses atau diubah secara langsung dari luar kelas tanpa melalui prosedur yang aman.
 
 ### 2. Encapsulation
