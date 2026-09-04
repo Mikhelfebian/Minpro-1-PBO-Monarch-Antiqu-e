@@ -36,8 +36,6 @@ public class BarangService {
         }
         System.out.println("=====================================================================");
     }
-
-    // READ (cari satu barang berdasarkan id)
     public Barang cariBarangById(int id) {
         for (Barang b : daftarBarang) {
             if (b.getId() == id) {
